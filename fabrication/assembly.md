@@ -9,7 +9,7 @@ Here we provide a comprehensive step-by-step guide on how to build an exemplary 
 * Screwdriver 
 * 6mm Hex key
 * Level
-<img align="right" width="300" height="250" src="https://i.imgur.com/tTrLOj0.gif">
+<img width="300" height="250" src="https://i.imgur.com/tTrLOj0.gif">
 
 ## Material required
 * Optical breadboard 
@@ -24,7 +24,7 @@ Here we provide a comprehensive step-by-step guide on how to build an exemplary 
 * 4mm nut
 * 2mm screw
 
-<img align="right" width="350" height="400" src="https://i.imgur.com/6wCAIWK.gif">
+<img width="350" height="400" src="https://i.imgur.com/6wCAIWK.gif">
 
 
 
@@ -57,7 +57,7 @@ TODO: Add a scematic for the layout of the mock setup.
 10. Place the camera holder on the bottom of the Basler camera and make sure that the hole align.
 11. Screw the 2mm screws through the holes of the camera holder and into the camera holes to fasten the camera to the camera holder.
 
-<img align="right" width="375" height="425" src="https://i.imgur.com/ch5zqMv.gif">
+<img width="375" height="425" src="https://i.imgur.com/ch5zqMv.gif">
 <br><br>
 
 12. Connect the second rod with the rod connector 90d and fasten it conform step 9-10.
