@@ -41,7 +41,8 @@ TODO: Add a scematic for the layout of the mock setup.
 3. Level the breadboard by adjusting the height of each hexbolt. Use a leveler to track progess.
 4. Place the small rodent holder and fasten it using two 6mm hexbolts. 
 
-![](https://i.imgur.com/dLxLRqO.gif =250x300) 
+<img width="250" height="300" src="https://i.imgur.com/dLxLRqO.gif">
+
 
 6. If your rod needs a screw to be screwed in to. Use a 6mm hesxbolt and screw it through the bottom of the optical breadboard. Note that you keep the distance and angle of your camera in mind.
 7. Attach the rod to the screw.
@@ -58,7 +59,6 @@ TODO: Add a scematic for the layout of the mock setup.
 11. Screw the 2mm screws through the holes of the camera holder and into the camera holes to fasten the camera to the camera holder.
 
 <img width="375" height="425" src="https://i.imgur.com/ch5zqMv.gif">
-<br><br>
 
 12. Connect the second rod with the rod connector 90d and fasten it conform step 9-10.
 13. Slide the camera holder over the rod.
