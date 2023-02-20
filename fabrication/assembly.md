@@ -17,7 +17,7 @@ Here we provide a comprehensive step-by-step guide on how to build an exemplary 
 * Small rodent holder
 * Basler camera holder
 * Basler camera with lense (optional)
-* Thorlabs rod [x2]
+* 12mm Thorlabs rod [x2]
 * 6mm hexbolt [x9]
 * 6mm hexnut [x3]
 * 4mm screw
