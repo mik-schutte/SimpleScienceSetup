@@ -23,11 +23,14 @@ If necessary you can order any additional components such as optical posts, moun
 |Small rodent holder| A movement restricting tube that can be mounted to the broadboad.
 |Basler camera holder | An attachment for connecting a Basler camera to a rod.|
 
+## State of the Project
+The project is in the research phase. As of 21-11-2022 the research involves developing of the 3D printable components. This development process is done in colaboration with the [OpenHardware Academy of the TU Delft](https://www.openhardware.academy/01_Welcome.html). In the future we aim to expand the variety of components. 
+
 ## Prototypes
 In case you are wondering how each component came to be, we provide detailed design progress. This will take you through the design history and reasoning behind decisions of each accessoire. This information can be found within the folder of each component.
 
 ## Alternatives
 This project serves as a low-cost alternative to distributors of optic system building blocks such as: Thorlabs and Edmundoptics. However, the higher costs of these distributors are accompanied by more solid and less breakable components. 
 
-## State of the Project
-The project is in the research phase. As of 21-11-2022 the research involves developing of the 3D printable components. This development process is done in colaboration with the [OpenHardware Academy of the TU Delft](https://www.openhardware.academy/01_Welcome.html). In the future we aim to expand the variety of components. 
+## License 
+SimpleScienceSetup © 2023 by Mik Schutte is licensed under CC BY 4.0 
