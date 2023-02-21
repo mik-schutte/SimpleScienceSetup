@@ -33,4 +33,4 @@ In case you are wondering how each component came to be, we provide detailed des
 This project serves as a low-cost alternative to distributors of optic system building blocks such as: Thorlabs and Edmundoptics. However, the higher costs of these distributors are accompanied by more solid and less breakable components. 
 
 ## License 
-SimpleScienceSetup © 2023 by Mik Schutte is licensed under CC BY 4.0 
+SimpleScienceSetup © 2023 by Mik Schutte is licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
